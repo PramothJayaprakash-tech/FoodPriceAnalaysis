@@ -1,0 +1,582 @@
+[
+  {
+    "storeName": "metro",
+    "productName": "apple",
+    "productPrice": "$1.07"
+  },
+  {
+    "storeName": "metro",
+    "productName": "carrot",
+    "productPrice": "$0.57"
+  },
+  {
+    "storeName": "metro",
+    "productName": "milk",
+    "productPrice": "$0.87"
+  },
+  {
+    "storeName": "metro",
+    "productName": "banana",
+    "productPrice": "$0.47"
+  },
+  {
+    "storeName": "metro",
+    "productName": "orange",
+    "productPrice": "$0.67"
+  },
+  {
+    "storeName": "metro",
+    "productName": "orange juice",
+    "productPrice": "$0.77"
+  },
+  {
+    "storeName": "metro",
+    "productName": "peeled orange",
+    "productPrice": "$0.87"
+  },
+  {
+    "storeName": "metro",
+    "productName": "lemon",
+    "productPrice": "$0.37"
+  },
+  {
+    "storeName": "metro",
+    "productName": "lime",
+    "productPrice": "$0.42"
+  },
+  {
+    "storeName": "metro",
+    "productName": "strawberry",
+    "productPrice": "$1.57"
+  },
+  {
+    "storeName": "metro",
+    "productName": "blueberry",
+    "productPrice": "$1.67"
+  },
+  {
+    "storeName": "metro",
+    "productName": "raspberry",
+    "productPrice": "$1.77"
+  },
+  {
+    "storeName": "metro",
+    "productName": "blackberry",
+    "productPrice": "$1.87"
+  },
+  {
+    "storeName": "metro",
+    "productName": "cherry",
+    "productPrice": "$2.07"
+  },
+  {
+    "storeName": "metro",
+    "productName": "mango",
+    "productPrice": "$1.07"
+  },
+  {
+    "storeName": "metro",
+    "productName": "papaya",
+    "productPrice": "$0.57"
+  },
+  {
+    "storeName": "metro",
+    "productName": "watermelon",
+    "productPrice": "$0.97"
+  },
+  {
+    "storeName": "metro",
+    "productName": "melon",
+    "productPrice": "$0.92"
+  },
+  {
+    "storeName": "metro",
+    "productName": "kiwi",
+    "productPrice": "$1.27"
+  },
+  {
+    "storeName": "metro",
+    "productName": "grape",
+    "productPrice": "$1.17"
+  },
+  {
+    "storeName": "metro",
+    "productName": "peach",
+    "productPrice": "$1.02"
+  },
+  {
+    "storeName": "metro",
+    "productName": "pear",
+    "productPrice": "$0.87"
+  },
+  {
+    "storeName": "metro",
+    "productName": "plum",
+    "productPrice": "$0.77"
+  },
+  {
+    "storeName": "metro",
+    "productName": "pomegranate",
+    "productPrice": "$1.37"
+  },
+  {
+    "storeName": "metro",
+    "productName": "avocado",
+    "productPrice": "$1.47"
+  },
+  {
+    "storeName": "metro",
+    "productName": "cucumber",
+    "productPrice": "$0.27"
+  },
+  {
+    "storeName": "metro",
+    "productName": "tomato",
+    "productPrice": "$0.37"
+  },
+  {
+    "storeName": "metro",
+    "productName": "lettuce",
+    "productPrice": "$0.32"
+  },
+  {
+    "storeName": "metro",
+    "productName": "spinach",
+    "productPrice": "$0.52"
+  },
+  {
+    "storeName": "metro",
+    "productName": "broccoli",
+    "productPrice": "$0.62"
+  },
+  {
+    "storeName": "metro",
+    "productName": "cauliflower",
+    "productPrice": "$0.72"
+  },
+  {
+    "storeName": "metro",
+    "productName": "potato",
+    "productPrice": "$0.42"
+  },
+  {
+    "storeName": "metro",
+    "productName": "sweet potato",
+    "productPrice": "$0.52"
+  },
+  {
+    "storeName": "metro",
+    "productName": "onion",
+    "productPrice": "$0.47"
+  },
+  {
+    "storeName": "metro",
+    "productName": "garlic",
+    "productPrice": "$0.67"
+  },
+  {
+    "storeName": "metro",
+    "productName": "ginger",
+    "productPrice": "$0.77"
+  },
+  {
+    "storeName": "metro",
+    "productName": "pepper",
+    "productPrice": "$0.92"
+  },
+  {
+    "storeName": "metro",
+    "productName": "chili",
+    "productPrice": "$0.97"
+  },
+  {
+    "storeName": "metro",
+    "productName": "butter",
+    "productPrice": "$1.17"
+  },
+  {
+    "storeName": "metro",
+    "productName": "butter biscuit",
+    "productPrice": "$1.27"
+  },
+  {
+    "storeName": "metro",
+    "productName": "salted butter",
+    "productPrice": "$1.37"
+  },
+  {
+    "storeName": "metro",
+    "productName": "butter paper",
+    "productPrice": "$0.47"
+  },
+  {
+    "storeName": "metro",
+    "productName": "cheese",
+    "productPrice": "$1.57"
+  },
+  {
+    "storeName": "metro",
+    "productName": "yogurt",
+    "productPrice": "$0.67"
+  },
+  {
+    "storeName": "metro",
+    "productName": "cream cheese",
+    "productPrice": "$1.67"
+  },
+  {
+    "storeName": "metro",
+    "productName": "egg",
+    "productPrice": "$0.17"
+  },
+  {
+    "storeName": "metro",
+    "productName": "bread",
+    "productPrice": "$0.57"
+  },
+  {
+    "storeName": "metro",
+    "productName": "whole wheat bread",
+    "productPrice": "$0.67"
+  },
+  {
+    "storeName": "metro",
+    "productName": "rice",
+    "productPrice": "$0.77"
+  },
+  {
+    "storeName": "metro",
+    "productName": "brown rice",
+    "productPrice": "$0.87"
+  },
+  {
+    "storeName": "metro",
+    "productName": "pasta",
+    "productPrice": "$0.97"
+  },
+  {
+    "storeName": "metro",
+    "productName": "spaghetti",
+    "productPrice": "$1.07"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Lactantia Milk",
+    "productPrice": "$0.62"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Selection Salted Butter",
+    "productPrice": "$0.47"
+  },
+  {
+    "storeName": "metro",
+    "productName": "English Cucumber",
+    "productPrice": "$0.37"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Avocado",
+    "productPrice": "$0.62"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Green Bell Pepper",
+    "productPrice": "$0.18"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Blackberries",
+    "productPrice": "$0.63"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Red Onion",
+    "productPrice": "$0.28"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Banana Chips",
+    "productPrice": "$0.35"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Banana Bread Mix",
+    "productPrice": "$0.61"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Banana Flavored Yogurt",
+    "productPrice": "$0.48"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Banana Nut Muffins",
+    "productPrice": "$0.65"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Chocolate Milk",
+    "productPrice": "$0.69"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Almond Milk",
+    "productPrice": "$0.56"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Oat Milk",
+    "productPrice": "$0.51"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Soy Milk",
+    "productPrice": "$0.54"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Unsalted Butter",
+    "productPrice": "$0.52"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Whipped Butter",
+    "productPrice": "$0.55"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Garlic Herb Butter",
+    "productPrice": "$0.61"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Butter Croissants",
+    "productPrice": "$0.66"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Peanut Butter",
+    "productPrice": "$0.72"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Crunchy Peanut Butter",
+    "productPrice": "$0.75"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Organic Peanut Butter",
+    "productPrice": "$0.81"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Peanut Butter Cookies",
+    "productPrice": "$0.46"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Peanut Butter Cups",
+    "productPrice": "$0.68"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Mini Cucumbers",
+    "productPrice": "$0.34"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Pickling Cucumbers",
+    "productPrice": "$0.31"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Cucumber Salad",
+    "productPrice": "$0.38"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Cucumber Slices",
+    "productPrice": "$0.33"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Cherry Tomatoes",
+    "productPrice": "$0.26"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Roma Tomatoes",
+    "productPrice": "$0.28"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Tomato Soup",
+    "productPrice": "$0.42"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Tomato Ketchup",
+    "productPrice": "$0.39"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Kleenex Tissues",
+    "productPrice": "$0.53"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Pocket Tissues",
+    "productPrice": "$0.55"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Aloe Vera Tissues",
+    "productPrice": "$0.62"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Unscented Tissues",
+    "productPrice": "$0.58"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Ground Beef Patties",
+    "productPrice": "$0.71"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Ground Beef Tacos",
+    "productPrice": "$0.67"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Crinkle Cut Fries",
+    "productPrice": "$0.68"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Sweet Potato Fries",
+    "productPrice": "$0.61"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Waffles",
+    "productPrice": "$0.56"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Waffle Fries",
+    "productPrice": "$0.56"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Curly Fries",
+    "productPrice": "$0.63"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Raspberries",
+    "productPrice": "$0.46"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Blackberries",
+    "productPrice": "$0.42"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Blueberries",
+    "productPrice": "$0.48"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Mixed Berries",
+    "productPrice": "$0.51"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Rice Krispies Cereal",
+    "productPrice": "$0.35"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Bran Flakes Cereal",
+    "productPrice": "$0.37"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Walnuts",
+    "productPrice": "$0.54"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Almonds",
+    "productPrice": "$0.52"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Cashews",
+    "productPrice": "$0.56"
+  },
+  {
+    "storeName": "metro",
+    "productName": "BBQ Chips",
+    "productPrice": "$0.45"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Sour Cream and Onion Chips",
+    "productPrice": "$0.47"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Tortilla Chips",
+    "productPrice": "$0.49"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Blueberry Waffles",
+    "productPrice": "$0.58"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Chocolate Chip Waffles",
+    "productPrice": "$0.61"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Buttermilk Waffles",
+    "productPrice": "$0.65"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Belgian Waffles",
+    "productPrice": "$0.68"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Coca-Cola Soft Drink",
+    "productPrice": "$0.72"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Pepsi Soft Drink",
+    "productPrice": "$0.69"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Sprite",
+    "productPrice": "$0.67"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Ginger Ale",
+    "productPrice": "$0.64"
+  },
+  {
+    "storeName": "metro",
+    "productName": "Root Beer",
+    "productPrice": "$0.66"
+  }
+]

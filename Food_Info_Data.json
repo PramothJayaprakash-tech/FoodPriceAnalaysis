@@ -1,0 +1,412 @@
+[
+  {
+    "Store name": "Foodbasics",
+    "Product price": "$1.22 /100g",
+    "Product name": "Old Cheddar Cheese"
+  },
+  {
+    "Store name": "Foodbasics",
+    "Product price": "$0.16 /100ml",
+    "Product name": "Diced Plum Tomatoes"
+  },
+  {
+    "Store name": "Foodbasics",
+    "Product price": "$0.98 /",
+    "Product name": "English Cucumber"
+  },
+  {
+    "Store name": "Foodbasics",
+    "Product price": "$0.16 /100g",
+    "Product name": "Spaghetti"
+  },
+  {
+    "Store name": "Foodbasics",
+    "Product price": "$1.49 /100g",
+    "Product name": "Salted Roasted Pistachios"
+  },
+  {
+    "Store name": "Foodbasics",
+    "Product price": "$2.93 /100g",
+    "Product name": "Instant Coffee, Rich"
+  },
+  {
+    "Store name": "Foodbasics",
+    "Product price": "$19.58 /kg$8.88 /lb.",
+    "Product name": "Selected Varieties Fresh Atlantic Salmon Fillets"
+  },
+  {
+    "Store name": "Foodbasics",
+    "Product price": "$7.58 /",
+    "Product name": "Honey Flavoured Hickory Smoked And Cured Ham"
+  },
+  {
+    "Store name": "Foodbasics",
+    "Product price": "$0.20 /100g",
+    "Product name": "All-Purpose White Flour"
+  },
+  {
+    "Store name": "Foodbasics",
+    "Product price": "$1.48 /100g",
+    "Product name": "Semi-Sweet Mini Chocolate Chips, Chipits"
+  },
+  {
+    "Store name": "Foodbasics",
+    "Product price": "$1.06 /100g",
+    "Product name": "Milk Chocolate Mini Eggs, Mini Eggs"
+  },
+  {
+    "Store name": "Foodbasics",
+    "Product price": "$0.44 /100g",
+    "Product name": "French Vanilla Frosting, Creamy Deluxe"
+  },
+  {
+    "Store name": "Foodbasics",
+    "Product price": "$0.88 /100",
+    "Product name": "Pure Lard"
+  },
+  {
+    "Store name": "Foodbasics",
+    "Product price": "$0.28 /100ml",
+    "Product name": "Chick Peas"
+  },
+  {
+    "Store name": "Foodbasics",
+    "Product price": "$0.66 /100ml",
+    "Product name": "Medium Hot Butter Chicken Sauce"
+  },
+  {
+    "Store name": "Foodbasics",
+    "Product price": "$0.82 /100g",
+    "Product name": "Boondi Snack"
+  },
+  {
+    "Store name": "Foodbasics",
+    "Product price": "$1.50 /100g",
+    "Product name": "Carrot Cake With Cream Cheese Icing"
+  },
+  {
+    "Store name": "Foodbasics",
+    "Product price": "$1.26 /100g",
+    "Product name": "Celebration Vanilla Cake"
+  },
+  {
+    "Store name": "Metro",
+    "Product price": "$17.37 /",
+    "Product name": "Prime Rib Roast, Chef Style"
+  },
+  {
+    "Store name": "Metro",
+    "Product price": "$8.80 /kg$3.99 /lb.",
+    "Product name": "Honey Flavoured Hickory Smoked And Cured Ham"
+  },
+  {
+    "Store name": "Metro",
+    "Product price": "$0.88 /100g",
+    "Product name": "Whole White Mushrooms"
+  },
+  {
+    "Store name": "Metro",
+    "Product price": "$1.22 /100ml",
+    "Product name": "Vanilla Flavoured Ice Cream"
+  },
+  {
+    "Store name": "Metro",
+    "Product price": "$44.07 /kg$19.99 /lb.",
+    "Product name": "Frozen Scallop"
+  },
+  {
+    "Store name": "Metro",
+    "Product price": "$3.20 /100",
+    "Product name": "Frozen Large Pacific White Shrimp Ring With Cocktail..."
+  },
+  {
+    "Store name": "Metro",
+    "Product price": "$6.59 /kg$2.99 /lb.",
+    "Product name": "PEI Blue Mussels"
+  },
+  {
+    "Store name": "Metro",
+    "Product price": "$63.91 /kg$28.99 /lb.",
+    "Product name": "In-Store Cooked Lobster"
+  },
+  {
+    "Store name": "Metro",
+    "Product price": "$3.20 /100g",
+    "Product name": "Milk And Hazelnut Easter Chocolate, Rocher"
+  },
+  {
+    "Store name": "Metro",
+    "Product price": "$4.84 /100g",
+    "Product name": "Frozen Maryland Style Crab Cakes"
+  },
+  {
+    "Store name": "Metro",
+    "Product price": "$0.70 /100",
+    "Product name": "Mini Milk Chocolate Eggs"
+  },
+  {
+    "Store name": "Metro",
+    "Product price": "$1.60 /100g",
+    "Product name": "Bacon"
+  },
+  {
+    "Store name": "Metro",
+    "Product price": "$1.02 /100g",
+    "Product name": "All Butter Croissants, Value Pack"
+  },
+  {
+    "Store name": "Metro",
+    "Product price": "$0.33 /un.",
+    "Product name": "Large White Eggs"
+  },
+  {
+    "Store name": "Metro",
+    "Product price": "$14.42 /100g",
+    "Product name": "Caring Coconut Scent Antiperspirant Stick, Advanced ..."
+  },
+  {
+    "Store name": "Metro",
+    "Product price": "$2.69 /100g",
+    "Product name": "Chocolate Chip Energy Bar"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "$1.52/1kg $0.69/1lb",
+    "Product name": "Bananas, Bunch"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "454 g, $1.10/100g",
+    "Product name": "Strawberries 1LB"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "1 ea, $1.99/1ea",
+    "Product name": "English Cucumber"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "$4.39/1kg $1.99/1lb",
+    "Product name": "Extra Large Green Seedless Grapes"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "1 bunch, $1.99/1ea",
+    "Product name": "Green Onion"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "12 ea, $0.32/1ea",
+    "Product name": "Large Grade A Eggs"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "1 ea, $3.99/1ea",
+    "Product name": "Celery Stalks"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "$4.39/1kg $1.99/1lb",
+    "Product name": "Extra Large Red Seedless Grapes"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "1.36 kg, $0.29/100g",
+    "Product name": "Yellow Onions, 3 lb Bag"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "$4.39/1kg $1.99/1lb",
+    "Product name": "Roma Tomatoes"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "1 ea, $0.99/1ea",
+    "Product name": "Lemon"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "$5.49/1kg $2.49/1lb",
+    "Product name": "Asparagus"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "1 ea, $4.99/1ea",
+    "Product name": "Lettuce Iceberg"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "$4.39/1kg $1.99/1lb",
+    "Product name": "Tomato On The Vine Red (1 Bunch)"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "1 ea, $1.00/1ea",
+    "Product name": "Avocados Bag, 5-Pack"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "1 bunch, $1.49/1ea",
+    "Product name": "Cilantro"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "1.362 kg, $0.29/100g",
+    "Product name": "Carrots, 3 lb Bag"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "283 g, $1.59/100g",
+    "Product name": "Grape Tomatoes"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "170 g, $2.35/100g",
+    "Product name": "Raspberries 1/2 pint"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "3 pack, $2.00/1ea",
+    "Product name": "Romaine Heart, 3 Pack"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "$11.00/1kg $4.99/1lb",
+    "Product name": "Red Peppers"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "$6.59/1kg $2.99/1lb",
+    "Product name": "Tomato Beefsteak Red"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "3 pack, $1.33/1ea",
+    "Product name": "English Cucumber 3Ct"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "1 ea, $4.99/1ea",
+    "Product name": "Cauliflower"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "340 g, $2.06/100g",
+    "Product name": "Blueberries 1 pint"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "$7.69/1kg $3.49/1lb",
+    "Product name": "Broccoli Crowns"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "$4.39/1kg $1.99/1lb",
+    "Product name": "Sweet Potato"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "$7.69/1kg $3.49/1lb",
+    "Product name": "Red Onion"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "4.54 kg, $0.11/100g",
+    "Product name": "Russet Potatoes, 10 lb Bag"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "$8.80/1kg $3.99/1lb",
+    "Product name": "Sweet Green Peppers"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "454 g, $1.54/100g",
+    "Product name": "Salted Butter"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "1 ea, $0.99/1ea",
+    "Product name": "Limes"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "$7.69/1kg $3.49/1lb",
+    "Product name": "Ginger"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "4 l, $0.15/100ml",
+    "Product name": "Partly Skimmed Milk 2% MF"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "$6.59/1kg $2.99/1lb",
+    "Product name": "Zucchini"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "30 ea, $0.32/1ea",
+    "Product name": "Large Size Eggs"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "90 g, $0.50/1ea",
+    "Product name": "Garlic Bulbs, 3-count"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "$2.62/1kg $1.19/1lb",
+    "Product name": "Organic Bananas, Bunch"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "1 ea, $3.79/1ea",
+    "Product name": "Broccoli"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "1 ea, $5.99/1ea",
+    "Product name": "Cantaloupe"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "$4.39/1kg $1.99/1lb",
+    "Product name": "Navel Orange"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "340 g, $2.64/100g",
+    "Product name": "Raspberry Pint"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "4.54 kg, $0.11/100g",
+    "Product name": "Yellow Potato, 10 lb Bag"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "1 ea, $1.66/1ea",
+    "Product name": "Greenhouse Peppers"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "$7.69/1kg $3.49/1lb",
+    "Product name": "Honeycrisp Apples"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "$6.59/1kg $2.99/1lb",
+    "Product name": "Sweet Onion"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "35 g, $24.26/100g",
+    "Product name": "Rosemary"
+  },
+  {
+    "Store name": "Zehrs",
+    "Product price": "500 ml, $0.80/100ml",
+    "Product name": "Super Premium Plus Ice Cream Chocolate Lover"
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "storeName": "foodbasics",
+    "productName": "apple",
+    "productPrice": "$0.98"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "carrot",
+    "productPrice": "$0.48"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "milk",
+    "productPrice": "$0.78"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "banana",
+    "productPrice": "$0.38"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "orange",
+    "productPrice": "$0.58"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "orange juice",
+    "productPrice": "$0.68"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "peeled orange",
+    "productPrice": "$0.78"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "lemon",
+    "productPrice": "$0.28"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "lime",
+    "productPrice": "$0.33"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "strawberry",
+    "productPrice": "$1.43"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "blueberry",
+    "productPrice": "$1.53"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "raspberry",
+    "productPrice": "$1.63"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "blackberry",
+    "productPrice": "$1.73"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "cherry",
+    "productPrice": "$1.93"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "mango",
+    "productPrice": "$0.98"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "papaya",
+    "productPrice": "$0.48"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "watermelon",
+    "productPrice": "$0.88"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "melon",
+    "productPrice": "$0.83"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "kiwi",
+    "productPrice": "$1.18"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "grape",
+    "productPrice": "$1.08"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "peach",
+    "productPrice": "$0.93"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "pear",
+    "productPrice": "$0.78"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "plum",
+    "productPrice": "$0.68"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "pomegranate",
+    "productPrice": "$1.28"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "avocado",
+    "productPrice": "$1.38"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "cucumber",
+    "productPrice": "$0.18"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "tomato",
+    "productPrice": "$0.28"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "lettuce",
+    "productPrice": "$0.23"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "spinach",
+    "productPrice": "$0.43"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "broccoli",
+    "productPrice": "$0.53"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "cauliflower",
+    "productPrice": "$0.63"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "potato",
+    "productPrice": "$0.33"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "sweet potato",
+    "productPrice": "$0.43"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "onion",
+    "productPrice": "$0.38"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "garlic",
+    "productPrice": "$0.58"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "ginger",
+    "productPrice": "$0.68"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "pepper",
+    "productPrice": "$0.83"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "chili",
+    "productPrice": "$0.88"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "butter",
+    "productPrice": "$1.08"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "butter biscuit",
+    "productPrice": "$1.18"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "salted butter",
+    "productPrice": "$1.28"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "butter paper",
+    "productPrice": "$0.48"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "cheese",
+    "productPrice": "$1.43"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "yogurt",
+    "productPrice": "$0.58"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "cream cheese",
+    "productPrice": "$1.53"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "egg",
+    "productPrice": "$0.17"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "bread",
+    "productPrice": "$0.57"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "whole wheat bread",
+    "productPrice": "$0.67"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "rice",
+    "productPrice": "$0.77"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "brown rice",
+    "productPrice": "$0.87"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "pasta",
+    "productPrice": "$0.97"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "spaghetti",
+    "productPrice": "$1.07"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Lactantia Milk",
+    "productPrice": "$0.62"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Selection Salted Butter",
+    "productPrice": "$0.47"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "English Cucumber",
+    "productPrice": "$0.37"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Avocado",
+    "productPrice": "$0.62"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Green Bell Pepper",
+    "productPrice": "$0.18"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Blackberries",
+    "productPrice": "$0.63"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Red Onion",
+    "productPrice": "$0.28"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Banana Chips",
+    "productPrice": "$0.35"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Banana Bread Mix",
+    "productPrice": "$0.61"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Banana Flavored Yogurt",
+    "productPrice": "$0.48"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Banana Nut Muffins",
+    "productPrice": "$0.65"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Chocolate Milk",
+    "productPrice": "$0.69"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Almond Milk",
+    "productPrice": "$0.56"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Oat Milk",
+    "productPrice": "$0.51"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Soy Milk",
+    "productPrice": "$0.54"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Unsalted Butter",
+    "productPrice": "$0.52"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Whipped Butter",
+    "productPrice": "$0.55"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Garlic Herb Butter",
+    "productPrice": "$0.61"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Butter Croissants",
+    "productPrice": "$0.66"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Peanut Butter",
+    "productPrice": "$0.72"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Crunchy Peanut Butter",
+    "productPrice": "$0.75"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Organic Peanut Butter",
+    "productPrice": "$0.81"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Peanut Butter Cookies",
+    "productPrice": "$0.46"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Peanut Butter Cups",
+    "productPrice": "$0.68"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Mini Cucumbers",
+    "productPrice": "$0.34"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Pickling Cucumbers",
+    "productPrice": "$0.31"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Cucumber Salad",
+    "productPrice": "$0.38"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Cucumber Slices",
+    "productPrice": "$0.33"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Cherry Tomatoes",
+    "productPrice": "$0.26"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Roma Tomatoes",
+    "productPrice": "$0.28"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Tomato Soup",
+    "productPrice": "$0.42"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Tomato Ketchup",
+    "productPrice": "$0.39"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Kleenex Tissues",
+    "productPrice": "$0.53"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Pocket Tissues",
+    "productPrice": "$0.55"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Aloe Vera Tissues",
+    "productPrice": "$0.62"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Unscented Tissues",
+    "productPrice": "$0.58"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Ground Beef Patties",
+    "productPrice": "$0.71"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Ground Beef Tacos",
+    "productPrice": "$0.67"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Crinkle Cut Fries",
+    "productPrice": "$0.68"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Sweet Potato Fries",
+    "productPrice": "$0.61"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Waffles",
+    "productPrice": "$0.58"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Waffle Fries",
+    "productPrice": "$0.56"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Curly Fries",
+    "productPrice": "$0.63"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Raspberries",
+    "productPrice": "$0.46"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Blackberries",
+    "productPrice": "$0.42"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Blueberries",
+    "productPrice": "$0.48"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Mixed Berries",
+    "productPrice": "$0.51"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Rice Krispies Cereal",
+    "productPrice": "$0.35"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Bran Flakes Cereal",
+    "productPrice": "$0.37"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Walnuts",
+    "productPrice": "$0.54"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Almonds",
+    "productPrice": "$0.52"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Cashews",
+    "productPrice": "$0.56"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "BBQ Chips",
+    "productPrice": "$0.45"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Sour Cream and Onion Chips",
+    "productPrice": "$0.47"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Tortilla Chips",
+    "productPrice": "$0.49"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Blueberry Waffles",
+    "productPrice": "$0.58"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Chocolate Chip Waffles",
+    "productPrice": "$0.61"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Buttermilk Waffles",
+    "productPrice": "$0.65"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Belgian Waffles",
+    "productPrice": "$0.68"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Coca-Cola Soft Drink",
+    "productPrice": "$0.72"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Pepsi Soft Drink",
+    "productPrice": "$0.69"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Sprite",
+    "productPrice": "$0.67"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Ginger Ale",
+    "productPrice": "$0.64"
+  },
+  {
+    "storeName": "foodbasics",
+    "productName": "Root Beer",
+    "productPrice": "$0.66"
+  }
+]

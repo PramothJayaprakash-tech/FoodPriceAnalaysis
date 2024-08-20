@@ -1,0 +1,582 @@
+[
+  {
+    "storeName": "zehrs",
+    "productName": "apple",
+    "productPrice": "$1.05"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "carrot",
+    "productPrice": "$0.52"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "milk",
+    "productPrice": "$0.85"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "banana",
+    "productPrice": "$0.43"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "orange",
+    "productPrice": "$0.65"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "orange juice",
+    "productPrice": "$0.75"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "peeled orange",
+    "productPrice": "$0.85"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "lemon",
+    "productPrice": "$0.35"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "lime",
+    "productPrice": "$0.40"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "strawberry",
+    "productPrice": "$1.70"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "blueberry",
+    "productPrice": "$1.80"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "raspberry",
+    "productPrice": "$1.90"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "blackberry",
+    "productPrice": "$2.00"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "cherry",
+    "productPrice": "$2.20"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "mango",
+    "productPrice": "$1.05"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "papaya",
+    "productPrice": "$0.52"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "watermelon",
+    "productPrice": "$0.95"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "melon",
+    "productPrice": "$0.90"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "kiwi",
+    "productPrice": "$1.25"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "grape",
+    "productPrice": "$1.15"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "peach",
+    "productPrice": "$1.00"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "pear",
+    "productPrice": "$0.85"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "plum",
+    "productPrice": "$0.75"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "pomegranate",
+    "productPrice": "$1.35"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "avocado",
+    "productPrice": "$1.45"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "cucumber",
+    "productPrice": "$0.23"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "tomato",
+    "productPrice": "$0.35"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "lettuce",
+    "productPrice": "$0.30"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "spinach",
+    "productPrice": "$0.50"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "broccoli",
+    "productPrice": "$0.60"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "cauliflower",
+    "productPrice": "$0.70"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "potato",
+    "productPrice": "$0.40"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "sweet potato",
+    "productPrice": "$0.50"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "onion",
+    "productPrice": "$0.45"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "garlic",
+    "productPrice": "$0.65"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "ginger",
+    "productPrice": "$0.75"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "pepper",
+    "productPrice": "$0.90"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "chili",
+    "productPrice": "$0.95"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "butter",
+    "productPrice": "$1.15"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "butter biscuit",
+    "productPrice": "$1.25"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "salted butter",
+    "productPrice": "$1.35"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "butter paper",
+    "productPrice": "$0.55"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "cheese",
+    "productPrice": "$1.70"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "yogurt",
+    "productPrice": "$0.75"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "cream cheese",
+    "productPrice": "$1.75"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "egg",
+    "productPrice": "$0.13"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "bread",
+    "productPrice": "$0.55"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "whole wheat bread",
+    "productPrice": "$0.65"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "rice",
+    "productPrice": "$0.75"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "brown rice",
+    "productPrice": "$0.85"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "pasta",
+    "productPrice": "$0.95"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "spaghetti",
+    "productPrice": "$1.05"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Lactantia Milk",
+    "productPrice": "$0.60"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Selection Salted Butter",
+    "productPrice": "$0.45"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "English Cucumber",
+    "productPrice": "$0.34"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Avocado",
+    "productPrice": "$0.60"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Green Bell Pepper",
+    "productPrice": "$0.18"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Blackberries",
+    "productPrice": "$0.63"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Red Onion",
+    "productPrice": "$0.32"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Banana Chips",
+    "productPrice": "$0.38"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Banana Bread Mix",
+    "productPrice": "$0.64"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Banana Flavored Yogurt",
+    "productPrice": "$0.52"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Banana Nut Muffins",
+    "productPrice": "$0.69"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Chocolate Milk",
+    "productPrice": "$0.73"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Almond Milk",
+    "productPrice": "$0.60"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Oat Milk",
+    "productPrice": "$0.55"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Soy Milk",
+    "productPrice": "$0.58"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Unsalted Butter",
+    "productPrice": "$0.56"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Whipped Butter",
+    "productPrice": "$0.59"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Garlic Herb Butter",
+    "productPrice": "$0.65"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Butter Croissants",
+    "productPrice": "$0.70"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Peanut Butter",
+    "productPrice": "$0.76"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Crunchy Peanut Butter",
+    "productPrice": "$0.79"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Organic Peanut Butter",
+    "productPrice": "$0.85"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Peanut Butter Cookies",
+    "productPrice": "$0.50"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Peanut Butter Cups",
+    "productPrice": "$0.72"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Mini Cucumbers",
+    "productPrice": "$0.37"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Pickling Cucumbers",
+    "productPrice": "$0.34"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Cucumber Salad",
+    "productPrice": "$0.41"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Cucumber Slices",
+    "productPrice": "$0.36"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Cherry Tomatoes",
+    "productPrice": "$0.29"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Roma Tomatoes",
+    "productPrice": "$0.31"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Tomato Soup",
+    "productPrice": "$0.45"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Tomato Ketchup",
+    "productPrice": "$0.42"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Kleenex Tissues",
+    "productPrice": "$0.57"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Pocket Tissues",
+    "productPrice": "$0.59"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Aloe Vera Tissues",
+    "productPrice": "$0.66"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Unscented Tissues",
+    "productPrice": "$0.62"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Ground Beef Patties",
+    "productPrice": "$0.71"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Ground Beef Tacos",
+    "productPrice": "$0.67"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Crinkle Cut Fries",
+    "productPrice": "$0.68"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Sweet Potato Fries",
+    "productPrice": "$0.61"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Waffles",
+    "productPrice": "$0.58"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Waffle Fries",
+    "productPrice": "$0.56"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Curly Fries",
+    "productPrice": "$0.63"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Raspberries",
+    "productPrice": "$0.46"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Blackberries",
+    "productPrice": "$0.42"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Blueberries",
+    "productPrice": "$0.48"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Mixed Berries",
+    "productPrice": "$0.51"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Rice Krispies Cereal",
+    "productPrice": "$0.35"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Bran Flakes Cereal",
+    "productPrice": "$0.37"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Walnuts",
+    "productPrice": "$0.54"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Almonds",
+    "productPrice": "$0.52"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Cashews",
+    "productPrice": "$0.56"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "BBQ Chips",
+    "productPrice": "$0.45"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Sour Cream and Onion Chips",
+    "productPrice": "$0.47"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Tortilla Chips",
+    "productPrice": "$0.49"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Blueberry Waffles",
+    "productPrice": "$0.58"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Chocolate Chip Waffles",
+    "productPrice": "$0.61"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Buttermilk Waffles",
+    "productPrice": "$0.65"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Belgian Waffles",
+    "productPrice": "$0.68"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Coca-Cola Soft Drink",
+    "productPrice": "$0.72"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Pepsi Soft Drink",
+    "productPrice": "$0.69"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Sprite",
+    "productPrice": "$0.67"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Ginger Ale",
+    "productPrice": "$0.64"
+  },
+  {
+    "storeName": "zehrs",
+    "productName": "Root Beer",
+    "productPrice": "$0.66"
+  }
+]

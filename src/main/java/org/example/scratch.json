@@ -1,0 +1,493 @@
+[
+  {
+    "productName": "apple",
+    "productPrice": 100
+  },
+  {
+    "productName": "carrot",
+    "productPrice": 50
+  },
+  {
+    "productName": "milk",
+    "productPrice": 80
+  },
+  {
+    "productName": "banana",
+    "productPrice": 40
+  },
+  {
+    "productName": "orange",
+    "productPrice": 60
+  },
+  {
+    "productName": "orange juice",
+    "productPrice": 70
+  },
+  {
+    "productName": "peeled orange",
+    "productPrice": 80
+  },
+  {
+    "productName": "lemon",
+    "productPrice": 30
+  },
+  {
+    "productName": "lime",
+    "productPrice": 35
+  },
+  {
+    "productName": "strawberry",
+    "productPrice": 150
+  },
+  {
+    "productName": "blueberry",
+    "productPrice": 160
+  },
+  {
+    "productName": "raspberry",
+    "productPrice": 170
+  },
+  {
+    "productName": "blackberry",
+    "productPrice": 180
+  },
+  {
+    "productName": "cherry",
+    "productPrice": 200
+  },
+  {
+    "productName": "mango",
+    "productPrice": 100
+  },
+  {
+    "productName": "papaya",
+    "productPrice": 50
+  },
+  {
+    "productName": "watermelon",
+    "productPrice": 90
+  },
+  {
+    "productName": "melon",
+    "productPrice": 85
+  },
+  {
+    "productName": "kiwi",
+    "productPrice": 120
+  },
+  {
+    "productName": "grape",
+    "productPrice": 110
+  },
+  {
+    "productName": "peach",
+    "productPrice": 95
+  },
+  {
+    "productName": "pear",
+    "productPrice": 80
+  },
+  {
+    "productName": "plum",
+    "productPrice": 70
+  },
+  {
+    "productName": "pomegranate",
+    "productPrice": 130
+  },
+  {
+    "productName": "avocado",
+    "productPrice": 140
+  },
+  {
+    "productName": "cucumber",
+    "productPrice": 20
+  },
+  {
+    "productName": "tomato",
+    "productPrice": 30
+  },
+  {
+    "productName": "lettuce",
+    "productPrice": 25
+  },
+  {
+    "productName": "spinach",
+    "productPrice": 45
+  },
+  {
+    "productName": "broccoli",
+    "productPrice": 55
+  },
+  {
+    "productName": "cauliflower",
+    "productPrice": 65
+  },
+  {
+    "productName": "potato",
+    "productPrice": 35
+  },
+  {
+    "productName": "sweet potato",
+    "productPrice": 45
+  },
+  {
+    "productName": "onion",
+    "productPrice": 40
+  },
+  {
+    "productName": "garlic",
+    "productPrice": 60
+  },
+  {
+    "productName": "ginger",
+    "productPrice": 70
+  },
+  {
+    "productName": "pepper",
+    "productPrice": 85
+  },
+  {
+    "productName": "chili",
+    "productPrice": 90
+  },
+  {
+    "productName": "butter",
+    "productPrice": 110
+  },
+  {
+    "productName": "butter biscuit",
+    "productPrice": 120
+  },
+  {
+    "productName": "salted butter",
+    "productPrice": 130
+  },
+  {
+    "productName": "butter paper",
+    "productPrice": 40
+  },
+  {
+    "productName": "cheese",
+    "productPrice": 150
+  },
+  {
+    "productName": "yogurt",
+    "productPrice": 60
+  },
+  {
+    "productName": "cream cheese",
+    "productPrice": 160
+  },
+  {
+    "productName": "egg",
+    "productPrice": 10
+  },
+  {
+    "productName": "bread",
+    "productPrice": 50
+  },
+  {
+    "productName": "whole wheat bread",
+    "productPrice": 60
+  },
+  {
+    "productName": "rice",
+    "productPrice": 70
+  },
+  {
+    "productName": "brown rice",
+    "productPrice": 80
+  },
+  {
+    "productName": "pasta",
+    "productPrice": 90
+  },
+  {
+    "productName": "spaghetti",
+    "productPrice": 100
+  },
+
+  {
+    "productName": "Lactantia Milk",
+    "productPrice": 55
+  },
+  {
+    "productName": "Selection Salted Butter",
+    "productPrice": 40
+  },
+
+  {
+    "productName": "English Cucumber",
+    "productPrice": 30
+  },
+
+  {
+    "productName": "Avocado",
+    "productPrice": 55
+  },
+
+
+  {
+    "productName": "Green Bell Pepper",
+    "productPrice": 25
+  },
+
+  {
+    "productName": "Blackberries",
+    "productPrice": 70
+  },
+
+  {
+    "productName": "Red Onion",
+    "productPrice": 35
+  },
+
+
+  {
+    "productName": "Banana Chips",
+    "productPrice": 42
+  },
+  {
+    "productName": "Banana Bread Mix",
+    "productPrice": 68
+  },
+  {
+    "productName": "Banana Flavored Yogurt",
+    "productPrice": 55
+  },
+  {
+    "productName": "Banana Nut Muffins",
+    "productPrice": 72
+  },
+
+  {
+    "productName": "Chocolate Milk",
+    "productPrice": 76
+  },
+  {
+    "productName": "Almond Milk",
+    "productPrice": 63
+  },
+  {
+    "productName": "Oat Milk",
+    "productPrice": 58
+  },
+  {
+    "productName": "Soy Milk",
+    "productPrice": 61
+  },
+  {
+    "productName": "Selection Salted Butter",
+    "productPrice": 47
+  },
+  {
+    "productName": "Unsalted Butter",
+    "productPrice": 50
+  },
+  {
+    "productName": "Whipped Butter",
+    "productPrice": 53
+  },
+  {
+    "productName": "Garlic Herb Butter",
+    "productPrice": 59
+  },
+  {
+    "productName": "Butter Croissants",
+    "productPrice": 64
+  },
+  {
+    "productName": "Peanut Butter",
+    "productPrice": 70
+  },
+
+  {
+    "productName": "Crunchy Peanut Butter",
+    "productPrice": 73
+  },
+  {
+    "productName": "Organic Peanut Butter",
+    "productPrice": 79
+  },
+  {
+    "productName": "Peanut Butter Cookies",
+    "productPrice": 54
+  },
+  {
+    "productName": "Peanut Butter Cups",
+    "productPrice": 66
+  },
+
+  {
+    "productName": "Mini Cucumbers",
+    "productPrice": 41
+  },
+  {
+    "productName": "Pickling Cucumbers",
+    "productPrice": 38
+  },
+  {
+    "productName": "Cucumber Salad",
+    "productPrice": 45
+  },
+  {
+    "productName": "Cucumber Slices",
+    "productPrice": 40
+  },
+  {
+    "productName": "Cherry Tomatoes",
+    "productPrice": 33
+  },
+  {
+    "productName": "Roma Tomatoes",
+    "productPrice": 35
+  },
+  {
+    "productName": "Tomato Soup",
+    "productPrice": 49
+  },
+  {
+    "productName": "Tomato Ketchup",
+    "productPrice": 46
+  },
+
+  {
+    "productName": "Kleenex Tissues",
+    "productPrice": 60
+  },
+  {
+    "productName": "Pocket Tissues",
+    "productPrice": 62
+  },
+  {
+    "productName": "Aloe Vera Tissues",
+    "productPrice": 69
+  },
+  {
+    "productName": "Unscented Tissues",
+    "productPrice": 65
+  },
+
+  {
+    "productName": "Ground Beef Patties",
+    "productPrice": 78
+  },
+  {
+    "productName": "Ground Beef Tacos",
+    "productPrice": 74
+  },
+  {
+    "productName": "Crinkle Cut Fries",
+    "productPrice": 75
+  },
+  {
+    "productName": "Sweet Potato Fries",
+    "productPrice": 68
+  },
+  {
+    "productName": "Waffles",
+    "productPrice": 63
+  },
+  {
+    "productName": "Waffle Fries",
+    "productPrice": 63
+  },
+  {
+    "productName": "Curly Fries",
+    "productPrice": 70
+  },
+
+  {
+    "productName": "Raspberries",
+    "productPrice": 53
+  },
+  {
+    "productName": "Blackberries",
+    "productPrice": 49
+  },
+  {
+    "productName": "Blueberries",
+    "productPrice": 55
+  },
+  {
+    "productName": "Mixed Berries",
+    "productPrice": 58
+  },
+  {
+    "productName": "Rice Krispies Cereal",
+    "productPrice": 42
+  },
+  {
+    "productName": "Bran Flakes Cereal",
+    "productPrice": 44
+  },
+
+  {
+    "productName": "Walnuts",
+    "productPrice": 61
+  },
+  {
+    "productName": "Almonds",
+    "productPrice": 59
+  },
+  {
+    "productName": "Cashews",
+    "productPrice": 63
+  },
+
+  {
+    "productName": "BBQ Chips",
+    "productPrice": 52
+  },
+  {
+    "productName": "Sour Cream and Onion Chips",
+    "productPrice": 54
+  },
+  {
+    "productName": "Tortilla Chips",
+    "productPrice": 56
+  },
+
+  {
+    "productName": "Blueberry Waffles",
+    "productPrice": 65
+  },
+  {
+    "productName": "Chocolate Chip Waffles",
+    "productPrice": 68
+  },
+  {
+    "productName": "Buttermilk Waffles",
+    "productPrice": 72
+  },
+  {
+    "productName": "Belgian Waffles",
+    "productPrice": 75
+  },
+  {
+    "productName": "Coca-Cola Soft Drink",
+    "productPrice": 79
+  },
+  {
+    "productName": "Pepsi Soft Drink",
+    "productPrice": 76
+  },
+  {
+    "productName": "Sprite",
+    "productPrice": 74
+  },
+  {
+    "productName": "Ginger Ale",
+    "productPrice": 71
+  },
+  {
+    "productName": "Root Beer",
+    "productPrice": 73
+  }
+
+
+
+]
+
+
